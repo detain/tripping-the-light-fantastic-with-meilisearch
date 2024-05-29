@@ -4,6 +4,26 @@ Notes on my journey down the rabbit-hole and testing with Meilisearch.
 
 ![Static Badge](https://img.shields.io/badge/Meilisearch_Mastery-Level_1_--_Search_Simpleton-blue?style=plastic&logo=meilisearch&logoColor=lightslategrey&logoSize=auto&labelColor=purple&color=powderblue)
 
+**Table of Cntents**
+
+[ToC]
+
+## Table of Contents 2
+
+* [Tripping the Light Fantastic with MeiliSearch](#tripping-the-light-fantastic-with-meilisearch)
+  * [List of Links Leveraged for Learning](#tripping-the-light-fantastic-with-meilisearch
+list-of-links-leveraged-for-learning)
+    * [Relevant Repos Reppin MeiliSearch (official repos)](#list-of-links-leveraged-for-learning
+relevant-repos-reppin-meilisearch-official-repos)
+    * [Expanding the Meilisearch Consiousness with Experimental Mind-Altering Software (3rdparty addons)](#relevant-repos-reppin-meilisearch-official-repos
+expanding-the-meilisearch-consiousness-with-experimental-mind-altering-software-3rdparty-addons)
+    * [Manuals for Mastery of Meiliserach Management (docs)](#manuals-for-mastery-of-meiliserach-management-docs)
+    * [Demos Deployed as Documentation & Sites Showcasing Searching (demos)](#demos-deployed-as-documentation--sites-showcasing-searching-demos)
+    * [Articles that (mostly) didn't put me to sleep just reading the title (blog)](#articles-that-mostly-didnt-put-me-to-sleep-just-reading-the-title-blog)
+    * [Frontend Admin Interfaces (ui)](#frontend-admin-interfaces-ui)
+    * [Termminal Command Line Interfaces (cli)](#termminal-command-line-interfaces-cli)
+  * [Message for Memorizing Markdown Missing from Memory](README.md#message-for-memorizing-markdown-missing-from-memory)
+
 ## List of Links Leveraged for Learning
 
 ### Relevant Repos Reppin MeiliSearch (official repos)
@@ -53,7 +73,7 @@ Notes on my journey down the rabbit-hole and testing with Meilisearch.
 - [What is Meilisearch? — Meilisearch documentation](https://www.meilisearch.com/docs/learn/what_is_meilisearch/overview)
 
 
-### Demos Deployed as Documentation & Sites Showcasing Searching (docs)
+### Demos Deployed as Documentation & Sites Showcasing Searching (demos)
 
 - [Ecommerce demo - Meilisearch](https://ecommerce.meilisearch.com/?utm_campaign=ecommerce-demo&utm_source=github&utm_medium=website-url)
 - [SaaS demo - Meilisearch](https://saas.meilisearch.com/deals)
@@ -87,7 +107,7 @@ Notes on my journey down the rabbit-hole and testing with Meilisearch.
 - [What are vector embeddings?](https://blog.meilisearch.com/what-are-vector-embeddings/)
 - [What is a vector database?](https://blog.meilisearch.com/what-is-a-vector-database/)
 
-### Frontend Admin UI's 
+### Frontend Admin Interfaces (ui)
 
 - [90pixel/MeiliAdmin](https://github.com/90pixel/MeiliAdmin?tab=readme-ov-file) Open Source MeiliSearch Management Tool
 - [Bwilliamson55/meili-manager](https://github.com/Bwilliamson55/meili-manager) A Quasar app to manage a MeiliSearch instance and its settings
@@ -102,7 +122,7 @@ Notes on my journey down the rabbit-hole and testing with Meilisearch.
 - [sariha/meilisearch-index-manager](https://github.com/sariha/meilisearch-index-manager?tab=readme-ov-file) Meilisearch UI to manage index and keys.
 - [zperf/meili-dashboard](https://github.com/zperf/meili-dashboard)
 
-### Command Line Interfaces (CLI) for the Terminal
+### Termminal Command Line Interfaces (cli)
 
 - [FaisalBinAhmed/MeiliFinder](https://github.com/FaisalBinAhmed/MeiliFinder) The ultimate Meilisearch client for your terminal
 - [MarinPostma/meili-cli](https://github.com/MarinPostma/meili-cli) A CLI for meilisearch
