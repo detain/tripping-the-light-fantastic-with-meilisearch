@@ -1,11 +1,8 @@
 # Tripping the Light Fantastic with MeiliSearch
 
 Notes on my journey down the rabbit-hole and testing with Meilisearch.
+
 ![Static Badge](https://img.shields.io/badge/Meilisearch_Mastery-Level_1_--_Search_Simpleton-blue?style=plastic&logo=meilisearch&logoColor=lightslategrey&logoSize=auto&labelColor=purple&color=powderblue)
-
-[TOC]
-
-[TOCM]
 
 ## List of Links Leveraged for Learning
 
@@ -114,51 +111,18 @@ Notes on my journey down the rabbit-hole and testing with Meilisearch.
 - [sanders41/meilisearch-cli](https://github.com/sanders41/meilisearch-cli) A CLI for working with Meilisearch
 - [sanders41/meilisearch-tui](https://github.com/sanders41/meilisearch-tui) A TUI for Managing and Searching with Meilisearch
 
-## Status
 
-## <insert something relevant and useful here>
-
-
-### Features
-
-- Support Standard Markdown / CommonMark and GFM(GitHub Flavored Markdown);
-- Full-featured: Real-time Preview, Image (cross-domain) upload, Preformatted text/Code blocks/Tables insert, Code fold, Search replace, Read only, Themes, Multi-languages, L18n, HTML entities, Code syntax highlighting...;
-- Markdown Extras : Support ToC (Table of Contents), Emoji, Task lists, @Links...;
-- Compatible with all major browsers (IE8+), compatible Zepto.js and iPad;
-- Support identification, interpretation, fliter of the HTML tags;
-- Support TeX (LaTeX expressions, Based on KaTeX), Flowchart and Sequence Diagram of Markdown extended syntax;
-- Support AMD/CMD (Require.js & Sea.js) Module Loader, and Custom/define editor plugins;
-
-# Editor.md
-
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
-
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
-
-
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
+## Message for Memorizing Markdown Missing from Memory
 
 *Italic*      _Italic_
+
 **Emphasis**  __Emphasis__
+
 ***Emphasis Italic*** ___Emphasis Italic___
 
 Superscript: X<sub>2</sub>，Subscript: O<sup>2</sup>
 
-**Abbreviation(link HTML abbr tag)**
-
 The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is maintained by the <abbr title="World Wide Web Consortium">W3C</abbr>.
-
-###Code Blocks (multi-language) & highlighting
-
-####Inline code
-
-`$ npm install marked`
-
-####Code Blocks (Indented style)
 
 Indented 4 spaces, like `<pre>` (Preformatted Text).
 
@@ -166,62 +130,7 @@ Indented 4 spaces, like `<pre>` (Preformatted Text).
         echo "Hello world!";
     ?>
     
-----
-
-###Tables
-                    
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell 
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-| Function name | Description                    |
-| ------------- | ------------------------------ |
-| `help()`      | Display the help window.       |
-| `destroy()`   | **Destroy your computer!**     |
-
-| Item      | Value |
-| --------- | -----:|
-| Computer  | $1600 |
-| Phone     |   $12 |
-| Pipe      |    $1 |
-
-| Left-Aligned  | Center Aligned  | Right Aligned |
-| :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
-                
-----
-
-##Escaping for Special Characters
-
-\*literal asterisks\*
-
-##Markdown extras
-
-###GFM task list
-
-- [x] GFM task list 1
-- [x] GFM task list 2
-- [ ] GFM task list 3
-    - [ ] GFM task list 3-1
-    - [ ] GFM task list 3-2
-    - [ ] GFM task list 3-3
-- [ ] GFM task list 4
-    - [ ] GFM task list 4-1
-    - [ ] GFM task list 4-2
-
-###Emoji mixed :smiley:
-
 > Blockquotes :star:
-
-####GFM task lists & Emoji & fontAwesome icon emoji & editormd logo emoji :editormd-logo-5x:
 
 - [x] :smiley: @mentions, :smiley: #refs, [links](), **formatting**, and <del>tags</del> supported :editormd-logo:;
 - [x] list syntax required (any unordered or ordered list supported) :editormd-logo-3x:;
@@ -231,25 +140,3 @@ Content Cell  | Content Cell
     - [ ] :smiley: this is an incomplete item [test link](#) :fa-star: :fa-gear:;
     - [ ] :smiley: this is  :fa-star: :fa-gear: an incomplete item [test link](#);
             
-
-###FlowChart
-
-```flow
-st=>start: Login
-op=>operation: Login operation
-cond=>condition: Successful Yes or No?
-e=>end: To admin
-
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
-	*+
-###Sequence Diagram
-                    
-```seq
-Andrew->China: Says Hello 
-Note right of China: China thinks\nabout it 
-China-->Andrew: How are you? 
-Andrew->>China: I am good thanks!
-```
