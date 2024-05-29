@@ -4,17 +4,10 @@ Notes on my journey down the rabbit-hole and testing with Meilisearch.
 
 ![Static Badge](https://img.shields.io/badge/Meilisearch_Mastery-Level_1_--_Search_Simpleton-blue?style=plastic&logo=meilisearch&logoColor=lightslategrey&logoSize=auto&labelColor=purple&color=powderblue)
 
-**Table of Cntents**
-
-[ToC]
-
-## Table of Contents 2
-
 * [Tripping the Light Fantastic with MeiliSearch](#tripping-the-light-fantastic-with-meilisearch)
   * [List of Links Leveraged for Learning](#tripping-the-light-fantastic-with-meilisearch
 list-of-links-leveraged-for-learning)
-    * [Relevant Repos Reppin MeiliSearch (official repos)](#list-of-links-leveraged-for-learning
-relevant-repos-reppin-meilisearch-official-repos)
+    * [Relevant Repos Reppin MeiliSearch (official repos)](#relevant-repos-reppin-meilisearch-official-repos)
     * [Expanding the Meilisearch Consiousness with Experimental Mind-Altering Software (3rdparty addons)](#relevant-repos-reppin-meilisearch-official-repos
 expanding-the-meilisearch-consiousness-with-experimental-mind-altering-software-3rdparty-addons)
     * [Manuals for Mastery of Meiliserach Management (docs)](#manuals-for-mastery-of-meiliserach-management-docs)
