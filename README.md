@@ -1,15 +1,13 @@
-# Tripping the Light Fantastic with MeiliSearch
+ # Tripping the Light Fantastic with MeiliSearch
 
 Notes on my journey down the rabbit-hole and testing with Meilisearch.
 
 ![Static Badge](https://img.shields.io/badge/Meilisearch_Mastery-Level_1_--_Search_Simpleton-blue?style=plastic&logo=meilisearch&logoColor=lightslategrey&logoSize=auto&labelColor=purple&color=powderblue)
 
 * [Tripping the Light Fantastic with MeiliSearch](#tripping-the-light-fantastic-with-meilisearch)
-  * [List of Links Leveraged for Learning](#tripping-the-light-fantastic-with-meilisearch
-list-of-links-leveraged-for-learning)
+  * [List of Links Leveraged for Learning](#)
     * [Relevant Repos Reppin MeiliSearch (official repos)](#relevant-repos-reppin-meilisearch-official-repos)
-    * [Expanding the Meilisearch Consiousness with Experimental Mind-Altering Software (3rdparty addons)](#relevant-repos-reppin-meilisearch-official-repos
-expanding-the-meilisearch-consiousness-with-experimental-mind-altering-software-3rdparty-addons)
+    * [Expanding the Meilisearch Consiousness with Experimental Mind-Altering Software (3rdparty addons)](#expanding-the-meilisearch-consiousness-with-experimental-mind-altering-software-3rdparty-addons)
     * [Manuals for Mastery of Meiliserach Management (docs)](#manuals-for-mastery-of-meiliserach-management-docs)
     * [Demos Deployed as Documentation & Sites Showcasing Searching (demos)](#demos-deployed-as-documentation--sites-showcasing-searching-demos)
     * [Articles that (mostly) didn't put me to sleep just reading the title (blog)](#articles-that-mostly-didnt-put-me-to-sleep-just-reading-the-title-blog)
