@@ -1,19 +1,19 @@
- # Tripping the Light Fantastic with MeiliSearch
+# Tripping the Light Fantastic with MeiliSearch
 
 Notes on my journey down the rabbit-hole and testing with Meilisearch.
 
 ![Static Badge](https://img.shields.io/badge/Meilisearch_Mastery-Level_1_--_Search_Simpleton-blue?style=plastic&logo=meilisearch&logoColor=lightslategrey&logoSize=auto&labelColor=purple&color=powderblue)
 
-* [Tripping the Light Fantastic with MeiliSearch](#tripping-the-light-fantastic-with-meilisearch)
-  * [List of Links Leveraged for Learning](#)
-    * [Relevant Repos Reppin MeiliSearch (official repos)](#relevant-repos-reppin-meilisearch-official-repos)
-    * [Expanding the Meilisearch Consiousness with Experimental Mind-Altering Software (3rdparty addons)](#expanding-the-meilisearch-consiousness-with-experimental-mind-altering-software-3rdparty-addons)
-    * [Manuals for Mastery of Meiliserach Management (docs)](#manuals-for-mastery-of-meiliserach-management-docs)
-    * [Demos Deployed as Documentation & Sites Showcasing Searching (demos)](#demos-deployed-as-documentation--sites-showcasing-searching-demos)
-    * [Articles that (mostly) didn't put me to sleep just reading the title (blog)](#articles-that-mostly-didnt-put-me-to-sleep-just-reading-the-title-blog)
-    * [Frontend Admin Interfaces (ui)](#frontend-admin-interfaces-ui)
-    * [Termminal Command Line Interfaces (cli)](#termminal-command-line-interfaces-cli)
-  * [Message for Memorizing Markdown Missing from Memory](README.md#message-for-memorizing-markdown-missing-from-memory)
+- [Tripping the Light Fantastic with MeiliSearch](#tripping-the-light-fantastic-with-meilisearch)
+  - [List of Links Leveraged for Learning](#list-of-links-leveraged-for-learning)
+    - [Relevant Repos Reppin MeiliSearch (official repos)](#relevant-repos-reppin-meilisearch-official-repos)
+    - [Expanding the Meilisearch Consciousness with Experimental Mind-Altering Software (3rdparty addons)](#expanding-the-meilisearch-consciousness-with-experimental-mind-altering-software-3rdparty-addons)
+    - [Manuals for Mastery of Meiliserach Management (docs)](#manuals-for-mastery-of-meiliserach-management-docs)
+    - [Demos Deployed as Documentation \& Sites Showcasing Searching (demos)](#demos-deployed-as-documentation--sites-showcasing-searching-demos)
+    - [Articles that (mostly) didn't put me to sleep just reading the title (blog)](#articles-that-mostly-didnt-put-me-to-sleep-just-reading-the-title-blog)
+    - [Frontend Admin Interfaces (ui)](#frontend-admin-interfaces-ui)
+    - [Terminal Command Line Interfaces (cli)](#terminal-command-line-interfaces-cli)
+  - [Message for Memorizing Markdown Missing from Memory](#message-for-memorizing-markdown-missing-from-memory)
 
 ## List of Links Leveraged for Learning
 
@@ -32,7 +32,7 @@ Notes on my journey down the rabbit-hole and testing with Meilisearch.
 - [meilisearch/product](https://github.com/meilisearch/product) Public feedback and ideation discussions for Meilisearch product 🔮
 - [meilisearch/settings_guessr](https://github.com/meilisearch/settings_guessr?tab=readme-ov-file) A tool that guess your settings by using the dataset
 
-### Expanding the Meilisearch Consiousness with Experimental Mind-Altering Software (3rdparty addons)
+### Expanding the Meilisearch Consciousness with Experimental Mind-Altering Software (3rdparty addons)
 
 - [CodyTseng/meilisearch-helper](https://github.com/CodyTseng/meilisearch-helper) A helper library for meilisearch-js that provides convenient utility methods to simplify common operations and enhance your Meilisearch experience.
 - [Codycody31/MeiliJSONImporter](https://github.com/Codycody31/MeiliJSONImporter) Efficiently import JSON data into MeiliSearch instances via a configurable CLI tool.
@@ -63,7 +63,6 @@ Notes on my journey down the rabbit-hole and testing with Meilisearch.
 - [Syncing databases with MySQL and meilisync — Meilisearch documentation](https://www.meilisearch.com/docs/learn/cookbooks/meilisync_mysql)
 - [What is Meilisearch? — Meilisearch documentation](https://www.meilisearch.com/docs/learn/what_is_meilisearch/overview)
 
-
 ### Demos Deployed as Documentation & Sites Showcasing Searching (demos)
 
 - [Ecommerce demo - Meilisearch](https://ecommerce.meilisearch.com/?utm_campaign=ecommerce-demo&utm_source=github&utm_medium=website-url)
@@ -73,7 +72,6 @@ Notes on my journey down the rabbit-hole and testing with Meilisearch.
 - [meilisearch/demos](https://github.com/meilisearch/demos) A list of Meilisearch demos with open-source code and live preview ⚡️
 - [meilisearch/ecommerce-demo](https://github.com/meilisearch/ecommerce-demo/) Nuxt 3 ecommerce site search with filtering and facets powered by Meilisearch
 - [meilisearch/saas-demo](https://github.com/meilisearch/saas-demo) App search in a CRM use case, powered by Meilisearch
-
 
 ### Articles that (mostly) didn't put me to sleep just reading the title (blog)
 
@@ -113,7 +111,7 @@ Notes on my journey down the rabbit-hole and testing with Meilisearch.
 - [sariha/meilisearch-index-manager](https://github.com/sariha/meilisearch-index-manager?tab=readme-ov-file) Meilisearch UI to manage index and keys.
 - [zperf/meili-dashboard](https://github.com/zperf/meili-dashboard)
 
-### Termminal Command Line Interfaces (cli)
+### Terminal Command Line Interfaces (cli)
 
 - [FaisalBinAhmed/MeiliFinder](https://github.com/FaisalBinAhmed/MeiliFinder) The ultimate Meilisearch client for your terminal
 - [MarinPostma/meili-cli](https://github.com/MarinPostma/meili-cli) A CLI for meilisearch
@@ -122,32 +120,27 @@ Notes on my journey down the rabbit-hole and testing with Meilisearch.
 - [sanders41/meilisearch-cli](https://github.com/sanders41/meilisearch-cli) A CLI for working with Meilisearch
 - [sanders41/meilisearch-tui](https://github.com/sanders41/meilisearch-tui) A TUI for Managing and Searching with Meilisearch
 
-
 ## Message for Memorizing Markdown Missing from Memory
 
-*Italic*      _Italic_
-
-**Emphasis**  __Emphasis__
-
-***Emphasis Italic*** ___Emphasis Italic___
-
-Superscript: X<sub>2</sub>，Subscript: O<sup>2</sup>
-
-The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is maintained by the <abbr title="World Wide Web Consortium">W3C</abbr>.
+- *Italic*
+- **Emphasis**
+- ***Emphasis Italic***
+- Superscript: X<sub>2</sub>
+- Subscript: O<sup>2</sup>
+- The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is maintained by the <abbr title="World Wide Web Consortium">W3C</abbr>.
 
 Indented 4 spaces, like `<pre>` (Preformatted Text).
 
     <?php
         echo "Hello world!";
     ?>
-    
+
 > Blockquotes :star:
 
-- [x] :smiley: @mentions, :smiley: #refs, [links](), **formatting**, and <del>tags</del> supported :editormd-logo:;
+- [x] :smiley: @mentions, :smiley: #refs, [links](detain), **formatting**, and <del>tags</del> supported :editormd-logo:;
 - [x] list syntax required (any unordered or ordered list supported) :editormd-logo-3x:;
 - [x] [ ] :smiley: this is a complete item :smiley:;
-- [ ] []this is an incomplete item [test link](#) :fa-star: @pandao; 
+- [ ] []this is an incomplete item [test link](https://google.com/) :fa-star: @pandao;
 - [ ] [ ]this is an incomplete item :fa-star: :fa-gear:;
-    - [ ] :smiley: this is an incomplete item [test link](#) :fa-star: :fa-gear:;
-    - [ ] :smiley: this is  :fa-star: :fa-gear: an incomplete item [test link](#);
-            
+  - [ ] :smiley: this is an incomplete item [test link](https://google.com/) :fa-star: :fa-gear:;
+  - [ ] :smiley: this is  :fa-star: :fa-gear: an incomplete item [test link](https://google.com/);
